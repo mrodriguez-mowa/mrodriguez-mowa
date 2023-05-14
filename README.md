@@ -70,8 +70,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markorodriguez&hide_border=true&layout=compact" align="center" /></div>  
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrodriguez-mowa&show_icons=true&locale=en" alt="mrodriguez-mowa" /></p>
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w9lp7o2asdpzdmt7tzdsipc6a&cover_image=true&theme=default" /></div>
