@@ -18,7 +18,7 @@
 - 🤠My personal website is https://www.markorodriguez.me  
   
 
-- 📫 How to reach me marko.rodriguez@hotmail.es  
+- 📫 How to reach me marko.rod27@gmail.com
   
 
 <br/>  
